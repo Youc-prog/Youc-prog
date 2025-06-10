@@ -64,13 +64,22 @@ Proactif, organisé et toujours prêt à apprendre et à partager.
 
 ### 📊 Stats GitHub
 
+
+<!-- Les cartes “readme‑stats” & “streak” s’actualisent automatiquement -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoucefBa&show_icons=true&theme=default" alt="Youcef GitHub stats" />
+  <!-- Carte “Stats” -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Youc-Prog&show_icons=true&include_all_commits=true&count_private=true&theme=default&cache_seconds=86400"
+    alt="Youc‑Prog GitHub stats"
+  />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoucefBa&theme=default" alt="GitHub Streak" />
+  <!-- Carte “Streak” -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Youc-Prog&theme=default&date_format=M%20j%5B%2C%20Y%5D"
+    alt="GitHub Streak"
+  />
 </p>
 
----
 
 ### 🤝 Comment puis‑je aider ?
 
