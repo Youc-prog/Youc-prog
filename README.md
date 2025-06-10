@@ -56,7 +56,7 @@ Proactif, organisé et toujours prêt à apprendre et à partager.
 
 ### 🌐 Langues
 
-| 🇫🇷 Français | 🇦🇪 Arabe | 🏳️‍🌈 Berbère | 🇬🇧 Anglais | 🇪🇸 Espagnol |
+| 🇫🇷 Français | 🇦🇪 Arabe | 🏳 Berbère | 🇬🇧 Anglais | 🇪🇸 Espagnol |
 |-------------|----------|--------------|-----------|-------------|
 | Natif | Natif | Natif | Avancé | Avancé |
 
