@@ -50,7 +50,7 @@ Proactif, organisé et toujours prêt à apprendre et à partager.
 
 - **Grado en Informática – Sistemas de Información** (RNCP 5, ENIC‑NARIC) – Université de Béjaïa (2023) :contentReference[oaicite:4]{index=4}  
 - **TS Informatique, spécialité Bases de Données** – INSFP Béjaïa (2018‑2021) :contentReference[oaicite:5]{index=5}  
-- **Diplômes & Certifs** : Cisco CCNA, Diplôme IA (Univ. Valencia/IHMGS), TCF C2, DELE B1 :contentReference[oaicite:6]{index=6}  
+- **Diplômes & Certifs** : Cisco , Diplôme IA (Univ. Valencia/IHMGS), TCF C2, DELE B1 :contentReference[oaicite:6]{index=6}  
 
 ---
 
