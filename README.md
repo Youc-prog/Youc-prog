@@ -26,7 +26,7 @@ Proactif, organisé et toujours prêt à apprendre et à partager.
 | Catégorie | Stacks / Outils |
 |-----------|-----------------|
 | **Data**  | SQL Server, MySQL, AbsoluteDatabase, ETL, Data Analysis |
-| **Langages** | Python, Delphi 7/10.3 |
+| **Langages** | Python, Delphi 7/10.3 , R |
 | **Systèmes & Réseau** | Administration Windows/Linux, CMD, gestion d’inventaire IT |
 | **Méthodologies** | Conception d’architectures DB, sécurité & sauvegardes, CI/CD |
 | **Soft Skills** | Leadership d’équipe, gestion de projet, résolution de problèmes |
