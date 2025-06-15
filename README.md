@@ -37,10 +37,10 @@ Proactif, organisé et toujours prêt à apprendre et à partager.
 
 | Période | Poste & Entreprise | Mission express |
 |---------|-------------------|-----------------|
-| 06 / 2023 – 04 / 2024 | **Responsable Département IT – SADEG** | Supervision SI, diagnostics et sécurité :contentReference[oaicite:0]{index=0} |
-| 10 / 2022 – 06 / 2023 | **Responsable Transport & Logistique – SIMAFE** | Coordination flotte & optimisation routes :contentReference[oaicite:1]{index=1} |
-| 2022 | **Chef de Cellule Électorale / IT Lead – Oficina Electoral** | Gestion bases électorales, support technique :contentReference[oaicite:2]{index=2} |
-| 03 / 2021 – 09 / 2021 | **DBA – SONELGAZ** | Maintenance, sécurité & backups critiques :contentReference[oaicite:3]{index=3} |
+| 06 / 2023 – 04 / 2024 | **Responsable Département IT – SADEG** | Supervision SI, diagnostics et sécurité |
+| 10 / 2022 – 06 / 2023 | **Responsable Transport & Logistique – SIMAFE** | Coordination flotte & optimisation routes |
+| 2022 | **Chef de Cellule Électorale / IT Lead – Oficina Electoral** | Gestion bases électorales, support technique |
+| 03 / 2021 – 09 / 2021 | **DBA – SONELGAZ** | Maintenance, sécurité & backups critiques  |
 
 > _“Apporter des solutions innovantes et fiables à chaque étape du projet.”_
 
