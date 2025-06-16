@@ -69,16 +69,17 @@ Proactif, organisé et toujours prêt à apprendre et à partager.
 <p align="center">
   <!-- Carte “Stats” -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Youc-Prog&show_icons=true&include_all_commits=true&count_private=true&theme=default&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=Youc-Prog&show_icons=true&include_all_commits=true&count_private=true&theme=default&cache_seconds=1800"
     alt="Youc‑Prog GitHub stats"
   />
   <br/>
   <!-- Carte “Streak” -->
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Youc-Prog&theme=default&date_format=M%20j%5B%2C%20Y%5D"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Youc-Prog&theme=default&date_format=M%20j%5B%2C%20Y%5D&fire=orange"
     alt="GitHub Streak"
   />
 </p>
+
 
 
 ### 🤝 Comment puis‑je aider ?
