@@ -66,10 +66,7 @@ Proactif, organisé et toujours prêt à apprendre et à partager.
 
 
 <p align="center">
-  <!-- Carte “Streak” -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Youc-Prog&theme=default&date_format=M%20j%5B%2C%20Y%5D&fire=orange"
-    alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Youc-Prog&theme=default&date_format=M%20j%5B%2C%20Y%5D&fire=orange" alt="GitHub Streak" />
 </p>
 
 
